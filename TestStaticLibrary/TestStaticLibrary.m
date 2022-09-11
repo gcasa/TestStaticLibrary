@@ -9,4 +9,9 @@
 
 @implementation TestStaticLibrary
 
+- (void) testMethod
+{
+    NSLog(@"Test");
+}
+
 @end
